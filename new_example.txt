@@ -1,0 +1,2 @@
+Hello, world welcome to our python session!
+-- file handling and exception handling --
