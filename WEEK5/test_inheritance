@@ -1,0 +1,12 @@
+from tablet_inheritance import Tablet  
+# Create an instance of the Tablet class
+my_tablet = Tablet("Samsung", "Galaxy Tab", 60, 10)
+
+# Check the initial status of the tablet
+my_tablet.status()
+
+# Use the tablet
+my_tablet.use()
+
+# Check the status again
+my_tablet.status()
